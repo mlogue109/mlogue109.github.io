@@ -310,7 +310,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-site
+  #- jekyll-site
   - jekyll-redirect-from
   - jemoji
 
@@ -319,7 +319,7 @@ whitelist:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-site
+  #- jekyll-site
   - jekyll-redirect-from
   - jemoji
 
