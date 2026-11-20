@@ -1,0 +1,11 @@
+---
+title: "Massive Protoclusters at 1.3 mm: Initial Results from the ALMA EGO-10 Survey"
+collection: talks
+type: "Talk"
+permalink: /talks/UKGSF
+venue: "UK Galactic Star Formation, Armagh Observatory and Planetarium"
+date: 2024-09-20
+location: "Armagh, UK"
+---
+
+
