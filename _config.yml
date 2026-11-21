@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Michael C. Logue"
   pronouns         : # example: "she/her"  
-  bio              : "Observational astronomer using radio/(sub)millimetre interferometry to understand (massive) star formation in young stellar clusters."
+  #bio              : "Observational astronomer using radio/(sub)millimetre interferometry to understand (massive) star formation in young stellar clusters."
   location         : "Scotland, UK"
   employer         : "University of St Andrews"
   uri              : # URL
