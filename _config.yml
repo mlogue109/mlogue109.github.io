@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-GB"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Michael C. Logue"
+title                    : "Dr Michael C. Logue"
 title_separator          : "-"
 name                     : &name "Michael C. Logue"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Michael C. Logue"
   pronouns         : # example: "she/her"  
-  bio              : "Radio astronomer"
+  bio              : "Observational astronomer using radio/(sub)millimetre interferometric observations to understand (massive) star formation in young stellar clusters."
   location         : "University of St Andrews"
   #employer         : "University of St Andrews"
   uri              : # URL
